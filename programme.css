@@ -1,0 +1,28 @@
+.date{
+	display: inline-block;
+	margin: 0 .5em;
+}
+
+.selecteur{
+	display: inline-block;
+	margin: 0 1em;
+	border:1px solid #dddddd;
+	right:0;
+}
+
+.h1{
+	font-size: 1.5em;
+	display: inline-block;
+	right:0;
+    vertical-align: middle;/*Fix for different     height elements*/
+	margin: .5em 2em;
+}
+
+.h2{
+	font-size: 1.25em;
+}
+
+.logo{
+	margin:0 1em 0 1em;
+    vertical-align: middle;/*Fix for different     height elements*/
+}
